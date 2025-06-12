@@ -14,7 +14,7 @@ we're just a group of curious learners sharing our little tech journeys — one 
 
 ## ✨ team posts
 
-- 🌼 (Posts/Ramlah/R'sjourney.md)
+- 🌼 - 🌼 [ramlah – a small start](./posts/Ramlah/ramlah-journey.md)
 
 
 stay tuned for more stories as we grow 🌸
