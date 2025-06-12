@@ -8,6 +8,6 @@ Follow our progress, read our raw thoughts, and grow with us.
 
 ## ✨ team posts
 
-- 🌼 [a small start — ramlah](./posts/Ramlah/R'sjourney.md)
+- 🌼(./posts/Ramlah/R'sjourney.md)
 
 
