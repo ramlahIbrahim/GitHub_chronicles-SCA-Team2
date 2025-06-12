@@ -17,4 +17,4 @@ This is a collaborative blog built with GitHub Pages and Markdown. We’re using
 
 1. Clone this repo to your local machine:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone [https://github.com/ramlahIbrahim/git_chronicles-SCA-Team2.git]
