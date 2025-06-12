@@ -12,7 +12,7 @@ But getting into **SCA**, I finally got to understand:
 - The **difference between Git and GitHub**  
 - And how they're used
 
-Now, I can do basic things like build and contribute to simple projects on GitHub — and that makes me proud. ✨
+Now, I can do basic things like build and contribute to simple projects on GitHub — and that makes me happy. ✨
 
 ### What do I think about GitHub now?
 
