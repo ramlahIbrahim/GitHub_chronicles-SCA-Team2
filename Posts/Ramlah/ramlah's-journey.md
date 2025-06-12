@@ -36,7 +36,7 @@ Maybe something here will resonate with another beginner out there. Maybe it’l
 
 ## 📍 Start Here
 
-👉🏽 [Read about my first GitHub experience](./Posts/Ramlah/My experience with GitHub-Ramlah.md)
+👉🏽 [Read about my first GitHub experience](./Posts/Ramlah/My-experience-with-GitHub-Ramlah.md)
 
 And if you’d like to stick around, grab a seat, sip some coffee or tea — and stay tuned, gently 🌷
 
