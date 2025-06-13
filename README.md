@@ -13,7 +13,7 @@ We’re Team 2 from the SCA Open Source Club, and this blog is our little corner
 To practice using GitHub, learn collaboration, version control and Open source contribution.
 
 ## 🛠 How to Run
-Just open the site: [https://ramlahibrahim.github.io/git_chronicles-SCA-Team2/]
+Just open the site: [https://ramlahibrahim.github.io/GitHub_chronicles-SCA-Team2/]
 
 
 ## ✍️ Want to share your own post?
