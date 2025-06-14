@@ -10,5 +10,6 @@ we're just a group of beginners sharing our little tech journeys — one post at
 ## Team Posts
 
 - 🌼 [ramlah – a small start](./Posts/Ramlah/ramlah's-journey.md)
+- [fisayomi - my story](./posts/olufisayomi/GitHub_journey.md)
 
 stay tuned for more stories as we grow 🌸
