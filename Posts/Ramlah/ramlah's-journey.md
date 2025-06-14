@@ -2,7 +2,7 @@
 
 Hi!! I’m **Ramlah**, and welcome to my little corner of the team blog. I’m really glad you’re here 💛
 
----
+
 
 ## 👧🏽 A Bit About Me
 
@@ -13,7 +13,7 @@ That curiosity eventually led me into **tech**. Not the hardcore, technical side
 
 To be honest, I haven’t always stayed close to this side of myself. I drifted for a while. But now I’m slowly coming back to it, trying to find where I truly fit in.
 
----
+
 
 ## 🎓 Where I Am Now
 
@@ -32,7 +32,7 @@ This blog space is where I’ll share:
 
 Maybe something here will resonate with another beginner out there. Maybe it’ll make someone feel seen. That alone would make it worth it 🫶🏽
 
----
+
 
 ## 📍 Start Here
 
