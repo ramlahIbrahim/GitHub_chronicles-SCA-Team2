@@ -16,6 +16,9 @@ To practice using GitHub, learn collaboration, version control and Open source c
 Just open the site: [https://ramlahibrahim.github.io/GitHub_chronicles-SCA-Team2/]
 
 
+Thank you for visiting and happy learning! 🚀
+
+
 ## ✍️ Want to share your own post?
 
 Yesss! We’d love to have your voice here.  
@@ -27,4 +30,10 @@ This blog is open under the [MIT License](LICENSE), so feel free to read, share,
 
 ---
 
+## 📧 Support
+
+
+Don't forget to star ⭐ this repo if you find this interesting
+
+---
 Thanks for stopping by — we’re excited to grow together 🌱
