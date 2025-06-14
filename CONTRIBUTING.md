@@ -1,4 +1,4 @@
-# 🌱 Contributing to Learning Tracker
+# 🌱 Contributing to GitHub Chronicles 
 
 Thank you for your interest in contributing to this blog!  
 We’re excited to grow this beginner-friendly space together and support each other’s learning journeys.
