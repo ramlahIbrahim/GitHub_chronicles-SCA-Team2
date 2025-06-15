@@ -32,7 +32,7 @@ This blog is open under the [MIT License](LICENSE), so feel free to read, share,
 
 ## 👥 Contributors
 
-- [@ramlahIbrahim](https://github.com/ramlahIbrahim-ramlahIbrahim)
+- [@ramlahIbrahim](https://github.com/ramlahIbrahim)
 - [@Olufisayomi](https://github.com/Olufisayomi-Olufisayomi)
 - [@itunuoluwaaina](https://github.com/itunuoluwaaina-itunuoluwaaina)
 
