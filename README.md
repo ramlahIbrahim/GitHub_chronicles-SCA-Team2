@@ -19,11 +19,6 @@ Just open the site: [https://ramlahibrahim.github.io/GitHub_chronicles-SCA-Team2
 Thank you for visiting and happy learning! 🚀
 
 
-## ✍️ Want to share your own post?
-
-Yesss! We’d love to have your voice here.  
-Just check out our [Contributing Guide](CONTRIBUTING.md) — it’ll walk you through how to create your folder, write your post, and send it in.
-
 ## 📜 License
 
 This blog is open under the [MIT License](LICENSE), so feel free to read, share, or remix the content.
@@ -41,7 +36,13 @@ This blog is open under the [MIT License](LICENSE), so feel free to read, share,
 ## 📧 Support
 
 
-Don't forget to star ⭐ this repo if you find this interesting
+Don't forget to star ⭐ this repo if you find this interesting.
+
+---
+## ✍️ Want to share your own post?
+
+Yesss! We’d love to have your voice here.  
+Just check out our [Contributing Guide](CONTRIBUTING.md) — it’ll walk you through how to create your folder, write your post, and send it in.
 
 ---
 Thanks for stopping by — we’re excited to grow together 🌱
