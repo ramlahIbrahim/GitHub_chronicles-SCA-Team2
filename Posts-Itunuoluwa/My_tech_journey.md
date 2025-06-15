@@ -16,7 +16,7 @@ With zero experience but a strong will, I believe I can learn to create things a
 
 Here’s how it began:
 - ✅ Wrote my first “Hello, World!” in Python 🐍
-- ✅ Then got stuck on a neverending 6-hour python program ming YouTube course *“Mosh Hamedani's 😩”*
+- ✅ Then got stuck on a neverending 6-hour python programming YouTube course *“Mosh Hamedani's 😩”*
 - ✅ Decided I needed a real commitment, hence, I joined the OAU SCA team (little did I know there were more struggles than a small python course 😅)
 
 ---
