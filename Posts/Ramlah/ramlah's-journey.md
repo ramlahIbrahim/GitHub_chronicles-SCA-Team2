@@ -4,7 +4,7 @@ Hi!! I’m **Ramlah**, and welcome to my little corner of the team blog. I’m r
 
 
 
-## 👧🏽 A Bit About Me
+## 😁 A Bit About Me
 
 Growing up, I was a curious child — always exploring creative things.  
 Design, colours… I’d dip into different art spaces just to find what felt like *me*.
